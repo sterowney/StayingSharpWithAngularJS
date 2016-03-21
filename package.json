@@ -17,6 +17,7 @@
     "grunt-contrib-sass": "^0.7.3",
     "grunt-contrib-watch": "^0.6.1",
     "karma": "^0.13.22",
+    "karma-jasmine": "^0.3.8",
     "karma-phantomjs-launcher": "^1.0.0"
   },
   "scripts": {
